@@ -1,0 +1,10 @@
+c:\users\can\documents\visual studio 2013\Projects\ISM.DemoWebService\ISM.DemoWebService\bin\ISM.Demo.dll.config
+c:\users\can\documents\visual studio 2013\Projects\ISM.DemoWebService\ISM.DemoWebService\bin\ISM.Demo.dll
+c:\users\can\documents\visual studio 2013\Projects\ISM.DemoWebService\ISM.DemoWebService\bin\ISM.Demo.pdb
+c:\users\can\documents\visual studio 2013\Projects\ISM.DemoWebService\ISM.DemoWebService\bin\Autofac.dll
+c:\users\can\documents\visual studio 2013\Projects\ISM.DemoWebService\ISM.DemoWebService\bin\Autofac.Integration.Wcf.dll
+c:\users\can\documents\visual studio 2013\Projects\ISM.DemoWebService\ISM.DemoWebService\bin\Autofac.xml
+c:\users\can\documents\visual studio 2013\Projects\ISM.DemoWebService\ISM.DemoWebService\bin\Autofac.Integration.Wcf.xml
+c:\users\can\documents\visual studio 2013\Projects\ISM.DemoWebService\ISM.DemoWebService\obj\Debug\ISM.Demo.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2013\Projects\ISM.DemoWebService\ISM.DemoWebService\obj\Debug\ISM.Demo.dll
+c:\users\can\documents\visual studio 2013\Projects\ISM.DemoWebService\ISM.DemoWebService\obj\Debug\ISM.Demo.pdb

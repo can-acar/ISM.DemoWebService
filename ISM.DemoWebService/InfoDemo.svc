@@ -1,0 +1,3 @@
+﻿<%@ ServiceHost
+    Service="ISM.Demo.Services.DemoService, ISM.Demo"
+    Factory="Autofac.Integration.Wcf.AutofacServiceHostFactory, Autofac.Integration.Wcf" %>
